@@ -1,3 +1,8 @@
 helloo
 made changes for pull request
+
 added additional features by master branch
+
+made changes and fixed the bug
+bug fixed and added additional features
+
